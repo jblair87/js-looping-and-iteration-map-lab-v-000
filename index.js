@@ -8,8 +8,13 @@ function nameToAttributes(list){
   return list.map(function(driver) {
 
   
-  
+  }); 
 }
 
-function attributesToPhrase(drivers){}
+function attributesToPhrase(drivers){
+  return list.map(function(driver) {
+  
+  
+});  
+}
 
