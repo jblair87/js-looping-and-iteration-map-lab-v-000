@@ -1,10 +1,15 @@
-function lowerCaseDrivers (drivers){
+function lowerCaseDrivers (list){
 return list.map(function(driver) {
  return driver.toLowerCase();  
   });
 }
 
-function nameToAttributes(drivers){}
+function nameToAttributes(list){
+  return list.map(function(driver) {
+
+  
+  
+}
 
 function attributesToPhrase(drivers){}
 
