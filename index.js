@@ -1,4 +1,4 @@
-function lowerCaseDrivers(drivers){}
+function lowerCaseDrivers = map(drivers){}
 
 function nameToAttributes(drivers){}
 
