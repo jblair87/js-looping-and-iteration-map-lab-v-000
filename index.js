@@ -12,7 +12,7 @@ function nameToAttributes(list){
 }
 
 function attributesToPhrase(drivers){
-  return list.map(function(driver) {
+  return drivers.map(function(driver) {
   
   
 });  
